@@ -45,7 +45,7 @@ function setKey(instance, event) {
   });
 }
 
-class MyComponent extends Component {
+class App extends Component {
   constructor(props) {
       super(props);
       this.state = {
@@ -80,6 +80,6 @@ class MyComponent extends Component {
 }
 
 render(
-  <MyComponent />,
+  <App />,
   document.getElementById('app')
 );
