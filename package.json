@@ -2,6 +2,7 @@
   "name": "hmac",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://kevinlee12.github.io/hmac",
   "dependencies": {
     "@types/jest": "24.0.15",
     "@types/materialize-css": "^1.0.6",
